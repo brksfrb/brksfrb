@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm brksfrb 👋
 
-<!--
-**brksfrb/brksfrb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**17 · building 300+ projects across Python, Unity, C++, ML**
 
-Here are some ideas to get you started:
+🦆 **Desktop Pet DUCK** — Python/tkinter, 100K+ views on Microsoft Store  
+🏃 **Wall Runner** — Unity game (launching soon)  
+🤖 **Minecraft bots · ML experiments · Cybersecurity tools**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Skills
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+
+## 📌 Pinned Projects
+- [Desktop Pet DUCK]([https://](https://apps.microsoft.com/detail/9pbm91h6xcxp) — 100K+ views on Microsoft Store
+
+## 📫 Find Me
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/brksfrb)
+[![Portfolio](https://img.shields.io/badge/Portfolio-brksfrb.com-4ecdc4?style=for-the-badge&logo=firefox&logoColor=white)](https://brksfrb.com)
