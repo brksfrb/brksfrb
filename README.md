@@ -13,7 +13,7 @@
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 
 ## 📌 Pinned Projects
-- [Desktop Pet DUCK]([https://](apps.microsoft.com/detail/9pbm91h6xcxp) — 100K+ views on Microsoft Store
+- [Desktop Pet DUCK](https://apps.microsoft.com/detail/9pbm91h6xcxp) — 100K+ views on Microsoft Store
 
 ## 📫 Find Me
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/brksfrb)
