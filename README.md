@@ -3,7 +3,7 @@
 **17 · building 300+ projects across Python, Unity, C++, ML**
 
 🦆 **Desktop Pet DUCK** — Python/tkinter, 140K+ views on Microsoft Store  
-🏃 **Wall Runner** — Unity game, LIVE on PlayStore open testing
+🏃 **Wall Runner** — Unity game, LIVE on PlayStore open testing  
 🤖 **Minecraft bots · ML experiments · Cybersecurity tools**
 
 ## 🔧 Skills
