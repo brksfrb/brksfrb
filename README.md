@@ -1,6 +1,6 @@
 # Hi, I'm brksfrb 👋
 
-**17 · building 300+ projects across Python, Unity, C++, ML**
+**18 · building 300+ projects across Python, Unity, C++, ML**
 
 🦆 **Desktop Pets** — Python/tkinter, 350K+ views on Microsoft Store  
 🏃 **Wall Runner** — Unity game, LIVE on PlayStore open testing  
